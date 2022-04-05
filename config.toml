@@ -1,6 +1,6 @@
 baseURL = "https://zenriquez.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje Zabdi"
+title = "Bitácora de Viaje de Zabdi"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
